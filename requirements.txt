@@ -1,0 +1,8 @@
+streamlit
+flask
+flask-cors
+flasgger
+openai
+python-dotenv
+PyMuPDF
+Pillow
